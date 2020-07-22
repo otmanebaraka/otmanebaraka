@@ -3,7 +3,7 @@
 <h3> About me:</h3>
 I'm <b> Web & Application Develepper </b><br>
 
-Language:<br><br>
+Language:<br>
 
 -> Client-side:  HTML5 - CSS3 & (SCSS) - JavaScript - TypeScript <br>
 -> Server-side: PHP - NodeJS(JavaScript) <br>
