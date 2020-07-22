@@ -1,7 +1,7 @@
 ### Hello there Welcome to my profile 👋
 
 <h3> About me:</h3>
-I'm <b> Web & Application Develepper </b><br>
+I'm <b> Web & Application Developper </b><br>
 
 Language:<br>
 
