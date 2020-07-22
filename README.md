@@ -7,9 +7,15 @@ Language:<br>
 
 -> Client-side:  HTML5 - CSS3 & (SCSS) - JavaScript - TypeScript <br>
 -> Server-side: PHP - NodeJS(JavaScript) <br>
--> Databases: MySql - Firebase <br>
--> Frameworks: Angular - ExpressJs - jQuery - Bootstrap <br>
--> CMS: Wordpress - PrestaShop
+-> Databases: MySql(SQL) - Firebase <br>
+-> Frameworks: Angular - Ionic - ExpressJs - jQuery - Bootstrap <br>
+-> CMS: Wordpress - PrestaShop <br>
+
+Tools:<br>
+
+Code editors: VisualStudio - Brackets - Sublime text <br>
+
+UI/UX: Adobe -> XD - Illustrator - Photoshop
 <!--
 **otmanebaraka/otmanebaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
