@@ -1,14 +1,15 @@
 ### Hello there Welcome to my profile 👋
 
 <h3> About me:</h3>
-I'm <b> Web & Application Develepper </b>
+I'm <b> Web & Application Develepper </b><br>
 
-Language:
+Language:<br><br>
 
--> Client-side:  HTML5 - CSS3 & (SCSS) - JavaScript - TypeScript
--> Server-side: PHP - NodeJS(JavaScript)
--> Databases: MySql - Firebase
--> Frameworks: Angular - ExpressJs - jQuery - Bootstrap
+-> Client-side:  HTML5 - CSS3 & (SCSS) - JavaScript - TypeScript <br>
+-> Server-side: PHP - NodeJS(JavaScript) <br>
+-> Databases: MySql - Firebase <br>
+-> Frameworks: Angular - ExpressJs - jQuery - Bootstrap <br>
+-> CMS: Wordpress - PrestaShop
 <!--
 **otmanebaraka/otmanebaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
