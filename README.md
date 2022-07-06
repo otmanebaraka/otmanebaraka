@@ -15,7 +15,7 @@ Tools:<br>
 
 Code editors: VisualStudio - Brackets - Sublime text <br>
 
-UI/UX: Adobe -> XD - Illustrator - Photoshop
+UI/UX: Adobe -> XD - Illustrator - Photoshop - Figma
 <!--
 **otmanebaraka/otmanebaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
