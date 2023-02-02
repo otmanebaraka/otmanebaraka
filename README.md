@@ -8,8 +8,8 @@ Language:<br>
 -> Client-side:  HTML5 - CSS3 & (SCSS) - JavaScript - TypeScript <br>
 -> Server-side: PHP - NodeJS(JavaScript) <br>
 -> Databases: MySql(SQL) - Firebase <br>
--> Frameworks: Angular - Ionic - ExpressJs - jQuery - Bootstrap <br>
--> CMS: Wordpress - PrestaShop <br>
+-> Frameworks: Angular - Ionic - jQuery - Bootstrap <br>
+-> CMS: Wordpress <br>
 
 Tools:<br>
 
