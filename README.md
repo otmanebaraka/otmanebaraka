@@ -1,35 +1,10 @@
-### Hello there Welcome to my profile 👋
+Hello there! Welcome to my profile 👋
 
-<h3> About me:</h3>
-I'm <b> Web & Application Developper </b><br>
+About me:
 
-Language:<br>
+I am a Web & Application Developer with expertise in multiple languages and tools. I have a solid understanding of both client-side and server-side technologies, including HTML5, CSS3 and SCSS, JavaScript, TypeScript, PHP, NodeJS, MySql, Firebase, and more. I am also proficient in various frameworks like Angular, Ionic, jQuery, and Bootstrap, and have experience working with CMS like Wordpress.
 
--> Client-side:  HTML5 - CSS3 & (SCSS) - JavaScript - TypeScript <br>
--> Server-side: PHP - NodeJS(JavaScript) <br>
--> Databases: MySql(SQL) - Firebase <br>
--> Frameworks: Angular - Ionic - jQuery - Bootstrap <br>
--> CMS: Wordpress <br>
+I use various code editors like Visual Studio, Brackets, and Sublime Text to write my code. 
+Additionally, I am skilled in UI/UX design, with expertise in Adobe XD, Illustrator, Photoshop, and Figma.
 
-Tools:<br>
-
-Code editors: VisualStudio - Brackets - Sublime text <br>
-
-UI/UX: Adobe -> XD - Illustrator - Photoshop - Figma
-<!--
-**otmanebaraka/otmanebaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello there Welcome to my profile
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With my extensive knowledge and experience, I am confident in my ability to deliver high-quality and user-friendly web and application solutions.
