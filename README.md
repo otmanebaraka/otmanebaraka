@@ -10,7 +10,7 @@ I'm a self-motivated developer with 4+ years of experience in building intuitive
 
 **Projects**
 
-Take a look at my portfolio for the full picture: [barakaotmane.com](barakaotmane.com) 
+Take a look at my portfolio for the full picture: [barakaotmane.com](https://barakaotmane.com/) 
 
 **Get in Touch**
 
