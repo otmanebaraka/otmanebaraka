@@ -16,3 +16,7 @@ Take a look at my portfolio for the full picture: [barakaotmane.com](https://bar
 
 * **Email:** contact@barakaotmane.com
 * **LinkedIn:** https://www.linkedin.com/in/otmane-baraka 
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=otmanebaraka&label=Profile%20Views&color=6&icon=1&pretty=false" />
+</a>
